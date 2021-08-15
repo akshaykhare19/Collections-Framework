@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 
-//HashMaps gets saved in random order
+//Pairs HashMaps gets saved in random order
 //TIME COMPLEXITY - O(1)
 
 public class LearnHashMap
@@ -34,10 +34,10 @@ public class LearnHashMap
         System.out.println(numbers.remove(5));
 
         //returns true if present, false if not
-        System.out.println(numbers.containsKey(2);
+        System.out.println(numbers.containsKey(2));
 
         //returns true if present, false if not
-        System.out.println(numbers.containsValue(One));
+        System.out.println(numbers.containsValue("One"));
 
         //returns true if empty, false if not
         System.out.println(numbers.isEmpty());
