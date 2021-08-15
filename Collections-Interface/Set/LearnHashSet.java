@@ -4,6 +4,8 @@ import java.util.Set;
 //Set is like a bag of elements. They can be randomly placed in the bag.
 //Duplication of elements is not allowed here, bcz a unique hash is generated for each element.
 
+//TIME COMPLEXITY - O(1)
+
 public class LearnHashSet
 {
     public static void main(String[] args)
